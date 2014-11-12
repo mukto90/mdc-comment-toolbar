@@ -1,4 +1,4 @@
 mdc-comment-toolbar
 ===================
 
-MDC YouTube Downloader allows visitors to download YouTube videos directly from your WordPress site. 
+MDC Comment Toolbar enables rich editor toolbar with media uploader in comment field.
