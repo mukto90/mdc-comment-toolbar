@@ -1,0 +1,7 @@
+  .conditional_form_part {
+    display: none;
+  }
+
+  .conditional_form_part_activator:checked + .conditional_form_part {
+    display: block;
+  }
